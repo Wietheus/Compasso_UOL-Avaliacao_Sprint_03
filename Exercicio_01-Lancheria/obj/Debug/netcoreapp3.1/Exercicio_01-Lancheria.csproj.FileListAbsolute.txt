@@ -1,0 +1,13 @@
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\bin\Debug\netcoreapp3.1\Exercicio_01-Lancheria.exe
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\bin\Debug\netcoreapp3.1\Exercicio_01-Lancheria.deps.json
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\bin\Debug\netcoreapp3.1\Exercicio_01-Lancheria.runtimeconfig.json
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\bin\Debug\netcoreapp3.1\Exercicio_01-Lancheria.runtimeconfig.dev.json
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\bin\Debug\netcoreapp3.1\Exercicio_01-Lancheria.dll
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\bin\Debug\netcoreapp3.1\Exercicio_01-Lancheria.pdb
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\obj\Debug\netcoreapp3.1\Exercicio_01-Lancheria.csprojAssemblyReference.cache
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\obj\Debug\netcoreapp3.1\Exercicio_01-Lancheria.AssemblyInfoInputs.cache
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\obj\Debug\netcoreapp3.1\Exercicio_01-Lancheria.AssemblyInfo.cs
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\obj\Debug\netcoreapp3.1\Exercicio_01-Lancheria.csproj.CoreCompileInputs.cache
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\obj\Debug\netcoreapp3.1\Exercicio_01-Lancheria.dll
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\obj\Debug\netcoreapp3.1\Exercicio_01-Lancheria.pdb
+C:\Arquivos Pessoais\Downloads\[Compasso UOL] Repositório de Projetos\Compasso_UOL-Avaliacao_Sprint_03\Exercicio_01-Lancheria\obj\Debug\netcoreapp3.1\Exercicio_01-Lancheria.genruntimeconfig.cache
